@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryBookApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.StoryBookApp" parent="Base.Theme.StoryBookApp" />
+
+    <style name="Theme.StoryBookApp.ActionBar" parent="Theme.Material3.Light"/>
+</resources>
